@@ -1,0 +1,14 @@
+# Here are the relevant vectors used in videos #14 and #16. The only thing you need to do is copy the lines below, paste them on RStudio console and press enter to load them on your environment.
+
+# L1_sample
+L1_sampple <- c("Greek","Albanian","Greek","Albanian","Russian","Greek","Russian","Greek","Greek","Russian","Greek","Russian","Greek","Greek","Russian","Russian","Russian","Russian","Russian","Turkish","Russian","Greek","Greek","Greek","Greek","Russian","Greek","Russian","Greek","Greek","Greek","Greek","Russian","Greek","Greek","Albanian","Albanian","Greek","Albanian","Albanian,"Albanian","Albanian","Albanian","Albanian","Albanian","Albanian","Albanian","Arabic","Arabic","Albanian")
+
+# test_scores
+test_scores <- c(13, 14, 15, 15, 15, 15, 15, 15, 14, 15, 14, 15, 15, 15, 15, 15, 13, 14, 15, 12, 15, 15, 13, 14, 14, 15, 15, 15, 15, 14, 15, 15, 14, 15, 15, 5, 11, 15, 14, 15, 15, 14, 11, 15, 15, 13, 14, 14, 14, 15)
+
+# times_sample
+times_sample <- c(4.49, 7.69, 7.34, 3.44, 7.10, 5.89, 4.81, 6.29, 4.79, 5.36, 3.47, 5.88, 8.43, 5.58, 6.28, 4.58, 2.34, 7.70, 6.95, 3.23, 4.68, 7.02, 3.84, 1.81, 7.41, 5.97, 4.87, 2.00, 4.28, 4.54, 6.83, 5.05, 5.33, 3.63, 6.18, 7.13, 5.15, 6.90, 7.02, 6.89, 3.44, 6.51, 5.08, 2.88, 8.34, 6.09, 2.52, 3.90, 6.53, 5.95)
+
+
+
+
