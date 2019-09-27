@@ -1,7 +1,7 @@
 # Here are the relevant vectors used in videos #14 and #16. The only thing you need to do is copy the lines below, paste them on RStudio console and press enter to load them on your environment.
 
 # L1_sample
-L1_sampple <- c("Greek","Albanian","Greek","Albanian","Russian","Greek","Russian","Greek","Greek","Russian","Greek","Russian","Greek","Greek","Russian","Russian","Russian","Russian","Russian","Turkish","Russian","Greek","Greek","Greek","Greek","Russian","Greek","Russian","Greek","Greek","Greek","Greek","Russian","Greek","Greek","Albanian","Albanian","Greek","Albanian","Albanian,"Albanian","Albanian","Albanian","Albanian","Albanian","Albanian","Albanian","Arabic","Arabic","Albanian")
+L1_sample <- c("Greek","Albanian","Greek","Albanian","Russian","Greek","Russian","Greek","Greek","Russian","Greek","Russian","Greek","Greek","Russian","Russian","Russian","Russian","Russian","Turkish","Russian","Greek","Greek","Greek","Greek","Russian","Greek","Russian","Greek","Greek","Greek","Greek","Russian","Greek","Greek","Albanian","Albanian","Greek","Albanian","Albanian,"Albanian","Albanian","Albanian","Albanian","Albanian","Albanian","Albanian","Arabic","Arabic","Albanian")
 
 # test_scores
 test_scores <- c(13, 14, 15, 15, 15, 15, 15, 15, 14, 15, 14, 15, 15, 15, 15, 15, 13, 14, 15, 12, 15, 15, 13, 14, 14, 15, 15, 15, 15, 14, 15, 15, 14, 15, 15, 5, 11, 15, 14, 15, 15, 14, 11, 15, 15, 13, 14, 14, 14, 15)
