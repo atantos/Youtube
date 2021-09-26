@@ -1,0 +1,16 @@
+1.
+name_string = "Alexandros"
+
+if (length(name_string) < 5)(
+	print(name_string)
+)
+
+2.
+if (GLC_df$PARTII(5) < 9)(
+	print(GLC_df(5,)
+)
+or if you choose to subset PARTII of the dataframe by column index, whereby 2 is the column index of the column PARTII:
+
+if (GLC_df(5, 2) < 9)(
+	print(GLC_df(5,)
+)
