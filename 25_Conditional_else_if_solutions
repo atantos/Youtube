@@ -1,0 +1,15 @@
+# Coding exercise for video 25 
+
+# The myname variable will point to the string of your own name.
+myname = "Alex"
+
+if (nchar(myname) == nchar("programmer")){
+  print("You are a programmer as far as the length of your names concerns.")
+} else if (nchar(myname) < nchar("programmer")){
+  n <-  nchar("programmer") - nchar(myname)
+  paste("Your name is shorter by", n, "characters")
+} else {
+  n <-  nchar(myname) - nchar("programmer")
+  paste("Your name is longer by", n, "characters")
+}
+ 
